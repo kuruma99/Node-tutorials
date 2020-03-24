@@ -1,3 +1,5 @@
+//Working with fs module to play with files
+
 const fs = require('fs');
 
 
